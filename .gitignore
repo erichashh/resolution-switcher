@@ -1,0 +1,11 @@
+# Local editor files and build intermediates.
+.vs/
+.vscode/
+bin/
+obj/
+*.pdb
+*.obj
+*.tmp
+*.user
+
+# ResolutionSwitcher.exe is intentionally included for easy downloads.
